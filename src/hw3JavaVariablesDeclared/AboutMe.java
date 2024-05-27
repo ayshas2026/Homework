@@ -18,9 +18,9 @@ public class AboutMe {
 	}
 
 	public void aboutMe() {
-		System.out.println("My age " + myAge + "\nMy roll number" + rollNumber + "\nMy hight" + hight + "\n My gender  "
-		+ gender + "\nI am a student" + iAmStudent + "\nMy class number" + classNumber + "\nMy dress price"
-		+ dressPrice + "\nMy home age" + homeAge + "\nMy home price" + homePrice);
+		System.out.println("My age :" + myAge + "\nMy roll number:" + rollNumber + "\nMy hight:" + hight + "\n My gender:  "
+		+ gender + "\nI am a student:" + iAmStudent + "\nMy class number:" + classNumber + "\nMy dress price:"
+		+ dressPrice + "\nMy home age:" + homeAge + "\nMy home price:" + homePrice);
 
 	}
 
