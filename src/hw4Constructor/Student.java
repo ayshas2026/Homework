@@ -19,6 +19,5 @@ public class Student {
 		this.studentgrade = studentgrade;
 		System.out.println("Student name: " + studentName + ", Student Id: " + studentId + ", Student gender: " + Gender
 				+ ", Java Programmer? " + ITStudent + ", Student grade: " + studentgrade);
-
 	}
 }

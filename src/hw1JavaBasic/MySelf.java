@@ -1,7 +1,5 @@
 package hw1JavaBasic;
 
-import interfacee.IntarfaceA;
-
 /*
  * project names generally starts with upperCase.
  *package names generally starts with lowerCase.
@@ -9,7 +7,7 @@ import interfacee.IntarfaceA;
  * 
  * Project,package,class follow Camel Case or Snake case pattern.
  */
-public abstract class MySelf implements IntarfaceA {
+public abstract class MySelf{
 	
 
 	
